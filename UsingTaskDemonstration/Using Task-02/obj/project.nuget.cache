@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RuDbEWrHc+g=",
+  "success": true,
+  "projectFilePath": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\Using Task-02\\Using Task-02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\bin\Debug\net8.0\UDPClientApp.exe
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\bin\Debug\net8.0\UDPClientApp.deps.json
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\bin\Debug\net8.0\UDPClientApp.runtimeconfig.json
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\bin\Debug\net8.0\UDPClientApp.dll
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\bin\Debug\net8.0\UDPClientApp.pdb
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\obj\Debug\net8.0\UDPClientApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfo.cs
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\obj\Debug\net8.0\UDPClientApp.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\obj\Debug\net8.0\UDPClientApp.dll
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\obj\Debug\net8.0\refint\UDPClientApp.dll
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\obj\Debug\net8.0\UDPClientApp.pdb
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\obj\Debug\net8.0\UDPClientApp.genruntimeconfig.cache
+G:\Ki_7\PRN222\UDPServicesDemo\UDPClientApp\obj\Debug\net8.0\ref\UDPClientApp.dll

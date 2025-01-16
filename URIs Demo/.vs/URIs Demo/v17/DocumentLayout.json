@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Ki_7\\PRN222\\URIs Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87B91E47-A83B-4746-BCBC-56A0C79FF6E6}|URIs Demo\\URIs Demo.csproj|g:\\ki_7\\prn222\\uris demo\\uris demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B91E47-A83B-4746-BCBC-56A0C79FF6E6}|URIs Demo\\URIs Demo.csproj|solutionrelative:uris demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\URIs Demo\\URIs Demo\\Program.cs",
+              "RelativeDocumentMoniker": "URIs Demo\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\URIs Demo\\URIs Demo\\Program.cs",
+              "RelativeToolTip": "URIs Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:21:45.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\bin\Debug\net8.0\ServerApp.exe
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\bin\Debug\net8.0\ServerApp.deps.json
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\bin\Debug\net8.0\ServerApp.dll
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\bin\Debug\net8.0\ServerApp.pdb
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\obj\Debug\net8.0\ServerApp.dll
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\obj\Debug\net8.0\refint\ServerApp.dll
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\obj\Debug\net8.0\ServerApp.pdb
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+G:\Ki_7\PRN222\DemoTCPService\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll

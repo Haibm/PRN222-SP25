@@ -1,0 +1,14 @@
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\bin\Debug\net8.0\Using Task-03.exe
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\bin\Debug\net8.0\Using Task-03.deps.json
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\bin\Debug\net8.0\Using Task-03.runtimeconfig.json
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\bin\Debug\net8.0\Using Task-03.dll
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\bin\Debug\net8.0\Using Task-03.pdb
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\obj\Debug\net8.0\Using Task-03.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\obj\Debug\net8.0\Using Task-03.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\obj\Debug\net8.0\Using Task-03.AssemblyInfo.cs
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\obj\Debug\net8.0\Using Task-03.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\obj\Debug\net8.0\Using Task-03.dll
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\obj\Debug\net8.0\refint\Using Task-03.dll
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\obj\Debug\net8.0\Using Task-03.pdb
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\obj\Debug\net8.0\Using Task-03.genruntimeconfig.cache
+G:\Ki_7\PRN222\UsingTaskDemonstration\Using Task-03\obj\Debug\net8.0\ref\Using Task-03.dll

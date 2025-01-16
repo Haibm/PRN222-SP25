@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CPHVGoQ/gxU=",
+  "success": true,
+  "projectFilePath": "G:\\Ki_7\\PRN222\\URIs Demo\\URIs Demo\\URIs Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

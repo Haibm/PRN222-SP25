@@ -1,0 +1,14 @@
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\bin\Debug\net8.0\HttpClient Class Demo-01.exe
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\bin\Debug\net8.0\HttpClient Class Demo-01.deps.json
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\bin\Debug\net8.0\HttpClient Class Demo-01.runtimeconfig.json
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\bin\Debug\net8.0\HttpClient Class Demo-01.dll
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\bin\Debug\net8.0\HttpClient Class Demo-01.pdb
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\obj\Debug\net8.0\HttpClient Class Demo-01.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\obj\Debug\net8.0\HttpClient Class Demo-01.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\obj\Debug\net8.0\HttpClient Class Demo-01.AssemblyInfo.cs
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\obj\Debug\net8.0\HttpClient Class Demo-01.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\obj\Debug\net8.0\HttpClient Class Demo-01.dll
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\obj\Debug\net8.0\refint\HttpClient Class Demo-01.dll
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\obj\Debug\net8.0\HttpClient Class Demo-01.pdb
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\obj\Debug\net8.0\HttpClient Class Demo-01.genruntimeconfig.cache
+G:\Ki_7\PRN222\HttpClient Class Demo-01\HttpClient Class Demo-01\obj\Debug\net8.0\ref\HttpClient Class Demo-01.dll

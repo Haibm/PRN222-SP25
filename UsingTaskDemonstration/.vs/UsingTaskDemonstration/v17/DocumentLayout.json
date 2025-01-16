@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B17B620F-5D4F-4D79-B265-7009C5B4F470}|Using Task-03\\Using Task-03.csproj|g:\\ki_7\\prn222\\usingtaskdemonstration\\using task-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17B620F-5D4F-4D79-B265-7009C5B4F470}|Using Task-03\\Using Task-03.csproj|solutionrelative:using task-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF95E49D-3A28-4651-9D62-04D60FB6BC2D}|Using Task-04\\Using Task-04.csproj|g:\\ki_7\\prn222\\usingtaskdemonstration\\using task-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF95E49D-3A28-4651-9D62-04D60FB6BC2D}|Using Task-04\\Using Task-04.csproj|solutionrelative:using task-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8D1B83-B0B1-4EC8-94F0-A80429335E7E}|Using Task-02\\Using Task-02.csproj|g:\\ki_7\\prn222\\usingtaskdemonstration\\using task-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8D1B83-B0B1-4EC8-94F0-A80429335E7E}|Using Task-02\\Using Task-02.csproj|solutionrelative:using task-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E859CCB4-6DD1-41AE-A346-058821E8859A}|Using Task\\Using Task.csproj|g:\\ki_7\\prn222\\usingtaskdemonstration\\using task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E859CCB4-6DD1-41AE-A346-058821E8859A}|Using Task\\Using Task.csproj|solutionrelative:using task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\Using Task-03\\Program.cs",
+              "RelativeDocumentMoniker": "Using Task-03\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\Using Task-03\\Program.cs",
+              "RelativeToolTip": "Using Task-03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:38:42.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\Using Task-04\\Program.cs",
+              "RelativeDocumentMoniker": "Using Task-04\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\Using Task-04\\Program.cs",
+              "RelativeToolTip": "Using Task-04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:36:53.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\Using Task-02\\Program.cs",
+              "RelativeDocumentMoniker": "Using Task-02\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\Using Task-02\\Program.cs",
+              "RelativeToolTip": "Using Task-02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:23:12.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\Using Task\\Program.cs",
+              "RelativeDocumentMoniker": "Using Task\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\UsingTaskDemonstration\\Using Task\\Program.cs",
+              "RelativeToolTip": "Using Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:14:27.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

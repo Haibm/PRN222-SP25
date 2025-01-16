@@ -1,0 +1,14 @@
+G:\Ki_7\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.exe
+G:\Ki_7\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.deps.json
+G:\Ki_7\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.runtimeconfig.json
+G:\Ki_7\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.dll
+G:\Ki_7\PRN222\Lab1\ClientApp\bin\Debug\net8.0\ClientApp.pdb
+G:\Ki_7\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfo.cs
+G:\Ki_7\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.dll
+G:\Ki_7\PRN222\Lab1\ClientApp\obj\Debug\net8.0\refint\ClientApp.dll
+G:\Ki_7\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.pdb
+G:\Ki_7\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ClientApp.genruntimeconfig.cache
+G:\Ki_7\PRN222\Lab1\ClientApp\obj\Debug\net8.0\ref\ClientApp.dll

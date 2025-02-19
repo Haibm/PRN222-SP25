@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Ki_7\\PRN222\\UsingPLINQDemonstration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1FF1A9-2748-4480-9B30-DD6F3930EA18}|Demo02\\Demo02.csproj|g:\\ki_7\\prn222\\usingplinqdemonstration\\demo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1FF1A9-2748-4480-9B30-DD6F3930EA18}|Demo02\\Demo02.csproj|solutionrelative:demo02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80305236-73F0-4436-8355-76B613DA4862}|Demo01\\Demo01.csproj|g:\\ki_7\\prn222\\usingplinqdemonstration\\demo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80305236-73F0-4436-8355-76B613DA4862}|Demo01\\Demo01.csproj|solutionrelative:demo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\UsingPLINQDemonstration\\Demo02\\Program.cs",
+              "RelativeDocumentMoniker": "Demo02\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\UsingPLINQDemonstration\\Demo02\\Program.cs*",
+              "RelativeToolTip": "Demo02\\Program.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:11:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\UsingPLINQDemonstration\\Demo01\\Program.cs",
+              "RelativeDocumentMoniker": "Demo01\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\UsingPLINQDemonstration\\Demo01\\Program.cs",
+              "RelativeToolTip": "Demo01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:10:23.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

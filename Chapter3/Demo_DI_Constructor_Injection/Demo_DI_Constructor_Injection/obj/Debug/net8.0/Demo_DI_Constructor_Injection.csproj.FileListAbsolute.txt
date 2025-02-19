@@ -1,0 +1,14 @@
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\bin\Debug\net8.0\Demo_DI_Constructor_Injection.exe
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\bin\Debug\net8.0\Demo_DI_Constructor_Injection.deps.json
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\bin\Debug\net8.0\Demo_DI_Constructor_Injection.runtimeconfig.json
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\bin\Debug\net8.0\Demo_DI_Constructor_Injection.dll
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\bin\Debug\net8.0\Demo_DI_Constructor_Injection.pdb
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\obj\Debug\net8.0\Demo_DI_Constructor_Injection.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\obj\Debug\net8.0\Demo_DI_Constructor_Injection.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\obj\Debug\net8.0\Demo_DI_Constructor_Injection.AssemblyInfo.cs
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\obj\Debug\net8.0\Demo_DI_Constructor_Injection.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\obj\Debug\net8.0\Demo_DI_Constructor_Injection.dll
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\obj\Debug\net8.0\refint\Demo_DI_Constructor_Injection.dll
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\obj\Debug\net8.0\Demo_DI_Constructor_Injection.pdb
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\obj\Debug\net8.0\Demo_DI_Constructor_Injection.genruntimeconfig.cache
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Constructor_Injection\Demo_DI_Constructor_Injection\obj\Debug\net8.0\ref\Demo_DI_Constructor_Injection.dll

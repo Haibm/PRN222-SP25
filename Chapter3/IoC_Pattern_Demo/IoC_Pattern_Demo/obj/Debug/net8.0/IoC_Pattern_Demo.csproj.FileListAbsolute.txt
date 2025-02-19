@@ -1,0 +1,14 @@
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\bin\Debug\net8.0\IoC_Pattern_Demo.exe
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\bin\Debug\net8.0\IoC_Pattern_Demo.deps.json
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\bin\Debug\net8.0\IoC_Pattern_Demo.runtimeconfig.json
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\bin\Debug\net8.0\IoC_Pattern_Demo.dll
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\bin\Debug\net8.0\IoC_Pattern_Demo.pdb
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\obj\Debug\net8.0\IoC_Pattern_Demo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\obj\Debug\net8.0\IoC_Pattern_Demo.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\obj\Debug\net8.0\IoC_Pattern_Demo.AssemblyInfo.cs
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\obj\Debug\net8.0\IoC_Pattern_Demo.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\obj\Debug\net8.0\IoC_Pattern_Demo.dll
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\obj\Debug\net8.0\refint\IoC_Pattern_Demo.dll
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\obj\Debug\net8.0\IoC_Pattern_Demo.pdb
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\obj\Debug\net8.0\IoC_Pattern_Demo.genruntimeconfig.cache
+G:\Ki_7\PRN222\Chapter3\IoC_Pattern_Demo\IoC_Pattern_Demo\obj\Debug\net8.0\ref\IoC_Pattern_Demo.dll

@@ -1,0 +1,17 @@
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.exe
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.deps.json
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.runtimeconfig.json
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.dll
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleRe.FE1876FF.Up2Date
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.dll
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\refint\SingleResponsibilityPrinciple.dll
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+G:\Ki_7\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\net8.0\ref\SingleResponsibilityPrinciple.dll

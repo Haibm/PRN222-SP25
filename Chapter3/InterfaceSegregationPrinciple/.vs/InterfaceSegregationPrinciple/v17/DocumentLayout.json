@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\interfacesegregationprinciple\\interfacesegregationprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\interfacesegregationprinciple\\interfacesegregationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\interfacesegregationprinciple\\interfacesegregationprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\interfacesegregationprinciple\\interfacesegregationprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\interfacesegregationprinciple\\interfacesegregationprinciple\\data\\bookstore3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\data\\bookstore3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\interfacesegregationprinciple\\interfacesegregationprinciple\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\interfacesegregationprinciple\\interfacesegregationprinciple\\data\\bookstore1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D15BA33A-1564-447D-90E8-3C51773E947B}|InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj|solutionrelative:interfacesegregationprinciple\\data\\bookstore1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Utilities\\Utilities.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Utilities\\Utilities.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Utilities\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:49:31.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Model\\IBook.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Model\\IBook.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Model\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:48:16.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Model\\Book.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Model\\Book.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:48:03.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStore3.json",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Data\\BookStore3.json",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Data\\BookStore3.json",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Data\\BookStore3.json",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Data\\BookStore3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T17:46:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookStore2.json",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Data\\BookStore2.json",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Data\\BookStore2.json",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Data\\BookStore2.json",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Data\\BookStore2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T17:45:35.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookStore1.json",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Data\\BookStore1.json",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Data\\BookStore1.json",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Data\\BookStore1.json",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Data\\BookStore1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T17:45:01.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\Program.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:43:39.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\openclosedprinciple\\openclosedprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\openclosedprinciple\\openclosedprinciple\\data\\bookstore_01.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\data\\bookstore_01.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\openclosedprinciple\\openclosedprinciple\\data\\bookstore_02.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\data\\bookstore_02.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\openclosedprinciple\\openclosedprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\openclosedprinciple\\openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\openclosedprinciple\\openclosedprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0244695-2120-415B-A2DF-53EF77DCB8F0}|OpenClosedPrinciple\\OpenClosedPrinciple.csproj|solutionrelative:openclosedprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Utilities\\Utilities.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Utilities\\Utilities.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\Utilities\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:07:46.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Model\\IBook.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Model\\IBook.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\Model\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:05:30.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Model\\Book.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Model\\Book.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:05:18.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookStore_02.json",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Data\\BookStore_02.json",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Data\\BookStore_02.json",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Data\\BookStore_02.json",
+              "RelativeToolTip": "OpenClosedPrinciple\\Data\\BookStore_02.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T17:03:40.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStore_01.json",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Data\\BookStore_01.json",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Data\\BookStore_01.json",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Data\\BookStore_01.json",
+              "RelativeToolTip": "OpenClosedPrinciple\\Data\\BookStore_01.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T17:03:33.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "OpenClosedPrinciple\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\OpenClosedPrinciple\\OpenClosedPrinciple\\Program.cs",
+              "RelativeToolTip": "OpenClosedPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:02:14.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQSWV+2xYAc=",
+  "success": true,
+  "projectFilePath": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

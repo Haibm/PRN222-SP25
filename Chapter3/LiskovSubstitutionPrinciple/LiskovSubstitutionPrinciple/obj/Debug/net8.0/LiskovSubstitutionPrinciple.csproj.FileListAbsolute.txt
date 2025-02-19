@@ -1,0 +1,17 @@
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.exe
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.deps.json
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.runtimeconfig.json
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.dll
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\LiskovSubstitutionPrinciple.pdb
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSu.A0E15A64.Up2Date
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.dll
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\refint\LiskovSubstitutionPrinciple.dll
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.pdb
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\LiskovSubstitutionPrinciple.genruntimeconfig.cache
+G:\Ki_7\PRN222\Chapter3\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\net8.0\ref\LiskovSubstitutionPrinciple.dll

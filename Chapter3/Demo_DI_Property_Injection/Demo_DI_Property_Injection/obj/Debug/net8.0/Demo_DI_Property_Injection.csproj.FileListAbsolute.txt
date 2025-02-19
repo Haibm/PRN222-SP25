@@ -1,0 +1,14 @@
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\obj\Debug\net8.0\Demo_DI_Property_Injection.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\obj\Debug\net8.0\Demo_DI_Property_Injection.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\obj\Debug\net8.0\Demo_DI_Property_Injection.AssemblyInfo.cs
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\obj\Debug\net8.0\Demo_DI_Property_Injection.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\bin\Debug\net8.0\Demo_DI_Property_Injection.exe
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\bin\Debug\net8.0\Demo_DI_Property_Injection.deps.json
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\bin\Debug\net8.0\Demo_DI_Property_Injection.runtimeconfig.json
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\bin\Debug\net8.0\Demo_DI_Property_Injection.dll
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\bin\Debug\net8.0\Demo_DI_Property_Injection.pdb
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\obj\Debug\net8.0\Demo_DI_Property_Injection.dll
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\obj\Debug\net8.0\refint\Demo_DI_Property_Injection.dll
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\obj\Debug\net8.0\Demo_DI_Property_Injection.pdb
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\obj\Debug\net8.0\Demo_DI_Property_Injection.genruntimeconfig.cache
+G:\Ki_7\PRN222\Chapter3\Demo_DI_Property_Injection\Demo_DI_Property_Injection\obj\Debug\net8.0\ref\Demo_DI_Property_Injection.dll

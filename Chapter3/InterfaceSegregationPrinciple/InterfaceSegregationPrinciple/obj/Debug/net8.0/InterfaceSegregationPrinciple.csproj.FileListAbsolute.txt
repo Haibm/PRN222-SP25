@@ -1,0 +1,17 @@
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.exe
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.deps.json
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.runtimeconfig.json
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.dll
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net8.0\InterfaceSegregationPrinciple.pdb
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\Interfac.45FF24C3.Up2Date
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.dll
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\refint\InterfaceSegregationPrinciple.dll
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.pdb
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\InterfaceSegregationPrinciple.genruntimeconfig.cache
+G:\Ki_7\PRN222\Chapter3\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\net8.0\ref\InterfaceSegregationPrinciple.dll

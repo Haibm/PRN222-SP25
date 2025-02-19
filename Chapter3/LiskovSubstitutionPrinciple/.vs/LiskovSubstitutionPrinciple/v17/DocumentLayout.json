@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\data\\bookstore3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\data\\bookstore3.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\data\\bookstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\data\\bookstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|g:\\ki_7\\prn222\\chapter3\\liskovsubstitutionprinciple\\liskovsubstitutionprinciple\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D7125FC-0436-44D2-B4C5-FFBC880523C7}|LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj|solutionrelative:liskovsubstitutionprinciple\\data\\bookstore2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Utilities\\Utilities.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Utilities\\Utilities.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Utilities\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:40:25.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Model\\IBook.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Model\\IBook.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Model\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:38:33.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Model\\Book.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Model\\Book.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:38:22.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStore3.json",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Data\\BookStore3.json",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Data\\BookStore3.json",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Data\\BookStore3.json",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Data\\BookStore3.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T17:35:10.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookStore2.json",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Data\\BookStore2.json",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Data\\BookStore2.json",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Data\\BookStore2.json",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Data\\BookStore2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T17:34:59.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookStore.json",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Data\\BookStore.json",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Data\\BookStore.json",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Data\\BookStore.json",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Data\\BookStore.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T17:34:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\Program.cs",
+              "RelativeToolTip": "LiskovSubstitutionPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:33:47.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Ki_7\\PRN222\\Chapter3\\Demo_ServiceCollectionClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28358459-3687-43DA-9D02-4883747FF452}|Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass.csproj|g:\\ki_7\\prn222\\chapter3\\demo_servicecollectionclass\\demo_servicecollectionclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28358459-3687-43DA-9D02-4883747FF452}|Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass.csproj|solutionrelative:demo_servicecollectionclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28358459-3687-43DA-9D02-4883747FF452}|Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass.csproj|g:\\ki_7\\prn222\\chapter3\\demo_servicecollectionclass\\demo_servicecollectionclass\\model\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28358459-3687-43DA-9D02-4883747FF452}|Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass.csproj|solutionrelative:demo_servicecollectionclass\\model\\writer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28358459-3687-43DA-9D02-4883747FF452}|Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass.csproj|g:\\ki_7\\prn222\\chapter3\\demo_servicecollectionclass\\demo_servicecollectionclass\\model\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28358459-3687-43DA-9D02-4883747FF452}|Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass.csproj|solutionrelative:demo_servicecollectionclass\\model\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWriter.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass\\Model\\IWriter.cs",
+              "RelativeDocumentMoniker": "Demo_ServiceCollectionClass\\Model\\IWriter.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass\\Model\\IWriter.cs",
+              "RelativeToolTip": "Demo_ServiceCollectionClass\\Model\\IWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:11:29.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Writer.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass\\Model\\Writer.cs",
+              "RelativeDocumentMoniker": "Demo_ServiceCollectionClass\\Model\\Writer.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass\\Model\\Writer.cs",
+              "RelativeToolTip": "Demo_ServiceCollectionClass\\Model\\Writer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:11:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ki_7\\PRN222\\Chapter3\\Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_ServiceCollectionClass\\Program.cs",
+              "ToolTip": "G:\\Ki_7\\PRN222\\Chapter3\\Demo_ServiceCollectionClass\\Demo_ServiceCollectionClass\\Program.cs*",
+              "RelativeToolTip": "Demo_ServiceCollectionClass\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:10:01.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
